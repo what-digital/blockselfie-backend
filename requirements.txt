@@ -16,3 +16,5 @@ django-import-export
 django-admin-sortable2
 pillow
 sendgrid
+neo-python
+neo-boa
